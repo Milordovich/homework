@@ -21,7 +21,6 @@ body {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 100px 80% 100px;
   position: relative;
   min-height: 100vh;
 }
